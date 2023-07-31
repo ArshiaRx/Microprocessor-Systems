@@ -1,2 +1,4 @@
-
-[lab4.pdf](https://github.com/ArshiaRx/COE538/files/12217505/lab4.pdf)
+There are three components to this lab exercise:
+1. Motor control subroutines
+2. The interrupt-driven timer overflow counter routines
+3. Timer Alarms
