@@ -1,5 +1,5 @@
 # Microprocessor Systems - COE538
-This course deals with microprocessor based systems, with an emphasis on embedded system hardware and software design. his course is taken at TMU, formally known for Ryerson. (COE538)
+This course deals with microprocessor based systems, with an emphasis on embedded system hardware and software design. This course is taken at TMU, formally known for Ryerson. (COE538)
 
 ##### You may refer to my contents, but COPYING them is strictly prohibited, as it would violate policy 60.
 
